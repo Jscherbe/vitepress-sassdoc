@@ -1,0 +1,41 @@
+{
+  "name": "@ulu/vitepress-sassdoc",
+  "version": "0.0.2",
+  "description": "Library that sets up markdown output for sassdocs, specifically for Vitepress.",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jscherbe/vitepress-sassdoc.git"
+  },
+  "scripts": {
+    "test:dev": "vitepress dev test",
+    "test:output": "node ./test/.vitepress/sassdoc/output.js"
+  },
+  "keywords": [
+    "vitepress",
+    "sassdoc",
+    "markdown",
+    "output",
+    "sass",
+    "documentation",
+    "compiled examples",
+    "preview",
+    "examples"
+  ],
+  "author": "Joseph Scherben <jscherbe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jscherbe/vitepress-sassdoc/issues"
+  },
+  "homepage": "https://github.com/Jscherbe/vitepress-sassdoc#readme",
+  "devDependencies": {
+    "@ulu/vitepress-auto-menus": "^0.0.3",
+    "fs-extra": "^11.1.1",
+    "sass": "^1.60.0",
+    "vitepress": "^1.0.0-rc.24"
+  },
+  "dependencies": {
+    "@ulu/sassdoc-to-markdown": "^0.0.2"
+  }
+}
