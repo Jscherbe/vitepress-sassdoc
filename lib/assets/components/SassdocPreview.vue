@@ -24,7 +24,6 @@
     methods: {
       previewHtml(markup) {
         const { previewHead, previewScripts } = this.sassdocPreviewOptions;
-        console.log('this.sassdocPreviewOptions:\n', this.sassdocPreviewOptions);
         return `<html lang="en"><head>${ previewHead }</head><body>${ markup }${ previewScripts }</body></html>`;
       },
       createPreview() {
