@@ -1,6 +1,6 @@
 {
   "name": "@ulu/vitepress-sassdoc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Library that sets up markdown output for sassdocs, specifically for Vitepress.",
   "main": "index.js",
   "type": "module",
@@ -36,7 +36,7 @@
     "vitepress": "^1.0.0-rc.24"
   },
   "dependencies": {
-    "@ulu/markdown-output-utils": "^0.0.4",
-    "@ulu/sassdoc-to-markdown": "^0.0.3"
+    "@ulu/markdown-output-utils": "^0.0.5",
+    "@ulu/sassdoc-to-markdown": "^0.0.4"
   }
 }
