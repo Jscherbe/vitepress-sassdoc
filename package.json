@@ -36,6 +36,7 @@
     "vitepress": "^1.0.0-rc.24"
   },
   "dependencies": {
-    "@ulu/sassdoc-to-markdown": "^0.0.2"
+    "@ulu/markdown-output-utils": "^0.0.4",
+    "@ulu/sassdoc-to-markdown": "^0.0.3"
   }
 }
