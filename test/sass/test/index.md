@@ -1,6 +1,7 @@
 ---
 title: Test
 sassdocGroupName: test
+outline: deep
 ---
 
 

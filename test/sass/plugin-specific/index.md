@@ -1,6 +1,7 @@
 ---
 title: Plugin-specific
 sassdocGroupName: plugin-specific
+outline: deep
 ---
 
 

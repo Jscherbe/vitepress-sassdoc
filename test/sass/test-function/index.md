@@ -1,6 +1,7 @@
 ---
 title: Test-function
 sassdocGroupName: test-function
+outline: deep
 ---
 
 
