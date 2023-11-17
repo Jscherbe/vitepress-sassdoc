@@ -37,6 +37,6 @@
   },
   "dependencies": {
     "@ulu/markdown-output-utils": "^0.0.5",
-    "@ulu/sassdoc-to-markdown": "^0.0.5"
+    "@ulu/sassdoc-to-markdown": "^0.0.6"
   }
 }
