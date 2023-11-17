@@ -33,11 +33,15 @@ This is a test variable aiming at testing:
     
 
 
+<SassdocDetails summaryText="Meta Information">
+
 - **File:** _sassdoc.scss
 - **Group:** test
 - **Type:** variable
 - **Lines (comments):** 102-109
 - **Lines (code):** 111-111
+
+</SassdocDetails>
     
     
 
@@ -70,11 +74,15 @@ This is a test mixin aiming at testing:
     
 
 
+<SassdocDetails summaryText="Meta Information">
+
 - **File:** _sassdoc.scss
 - **Group:** test
 - **Type:** mixin
 - **Lines (comments):** 83-96
 - **Lines (code):** 98-98
+
+</SassdocDetails>
     
     
 
@@ -113,11 +121,15 @@ This is a test aiming at testing:
     
 
 
+<SassdocDetails summaryText="Meta Information">
+
 - **File:** _sassdoc.scss
 - **Group:** test
 - **Type:** mixin
 - **Lines (comments):** 123-126
 - **Lines (code):** 128-139
+
+</SassdocDetails>
     
     
 
@@ -146,11 +158,15 @@ This is a test that autofill can be overwritten.
     
 
 
+<SassdocDetails summaryText="Meta Information">
+
 - **File:** _sassdoc.scss
 - **Group:** test
 - **Type:** mixin
 - **Lines (comments):** 144-146
 - **Lines (code):** 148-152
+
+</SassdocDetails>
     
     
 
@@ -171,11 +187,15 @@ This is a test that autofill should report not found
     
 
 
+<SassdocDetails summaryText="Meta Information">
+
 - **File:** _sassdoc.scss
 - **Group:** test
 - **Type:** mixin
 - **Lines (comments):** 154-155
 - **Lines (code):** 156-157
+
+</SassdocDetails>
     
     
   ,
@@ -197,11 +217,15 @@ This is a test function aiming at testing:
     
 
 
+<SassdocDetails summaryText="Meta Information">
+
 - **File:** _sassdoc.scss
 - **Group:** test
 - **Type:** function
 - **Lines (comments):** 67-77
 - **Lines (code):** 79-79
+
+</SassdocDetails>
     
     
 
@@ -241,11 +265,15 @@ This is a test function aiming at testing:
     
 
 
+<SassdocDetails summaryText="Meta Information">
+
 - **File:** _sassdoc.scss
 - **Group:** test
 - **Type:** function
 - **Lines (comments):** 161-164
 - **Lines (code):** 166-166
+
+</SassdocDetails>
     
     
 
@@ -260,12 +288,16 @@ This is a test function aiming at testing:
     
 
 
+<SassdocDetails summaryText="Meta Information">
+
 - **File:** _sassdoc.scss
 - **Group:** test
 - **Type:** function
 - **Aliased:** alias-test
 - **Lines (comments):** 168-169
 - **Lines (code):** 171-171
+
+</SassdocDetails>
     
     
 
@@ -281,11 +313,15 @@ This is a test function aiming at testing:
     
 
 
+<SassdocDetails summaryText="Meta Information">
+
 - **File:** _sassdoc.scss
 - **Group:** test
 - **Type:** function
 - **Lines (comments):** 173-176
 - **Lines (code):** 178-178
+
+</SassdocDetails>
     
     
   ,
@@ -305,11 +341,15 @@ This is a test placeholder aiming at testing:
     
 
 
+<SassdocDetails summaryText="Meta Information">
+
 - **File:** _sassdoc.scss
 - **Group:** test
 - **Type:** placeholder
 - **Lines (comments):** 114-117
 - **Lines (code):** 119-119
+
+</SassdocDetails>
     
     
 
@@ -329,11 +369,15 @@ This is a test placeholder aiming at testing:
     
 
 
+<SassdocDetails summaryText="Meta Information">
+
 - **File:** _sassdoc.scss
 - **Group:** test
 - **Type:** placeholder
 - **Lines (comments):** 180-182
 - **Lines (code):** 184-184
+
+</SassdocDetails>
     
     
   ,
@@ -358,11 +402,15 @@ This is a test CSS block.
   
 
 
+<SassdocDetails summaryText="Meta Information">
+
 - **File:** _sassdoc.scss
 - **Group:** test
 - **Type:** css
 - **Lines (comments):** 186-187
 - **Lines (code):** 189-189
+
+</SassdocDetails>
     
     
   
@@ -387,7 +435,7 @@ This is a test CSS block.
       },
       sassdocPreviewOptions: JSON.parse(
         decodeURIComponent(
-          `%7B%22previewStyles%22%3A%22%5Cn%20%20%20%20height%3A%2020em%3B%20%5Cn%20%20%20%20width%3A%20100%25%3B%20%5Cn%20%20%20%20border%3A%201px%20solid%20rgba(0%2C0%2C0%2C0.2)%3B%20%5Cn%20%20%20%20border-radius%3A%206px%3B%5Cn%20%20%20%20padding%3A%2010px%3B%20%5Cn%20%20%20%20margin%3A%201.5em%200%3B%5Cn%20%20%22%2C%22previewHead%22%3A%22%5Cn%20%20%20%20%3Ctitle%3ESassdoc%20Example%3C%2Ftitle%3E%20%5Cn%20%20%20%20%3Cmeta%20charset%3D%5C%22utf-8%5C%22%3E%20%5Cn%20%20%20%20%3Cmeta%20name%3D%5C%22viewport%5C%22%20content%3D%5C%22width%3Ddevice-width%2C%20initial-scale%3D1%5C%22%3E%20%5Cn%20%20%20%20%3Clink%20rel%3D%5C%22stylesheet%5C%22%20href%3D%5C%22%2Fsassdoc-preview.css%5C%22%3E%5Cn%20%20%22%2C%22previewScripts%22%3A%22%5Cn%20%20%20%20%3Cscript%20src%3D%5C%22%2Fsassdoc-preview.js%5C%22%3E%3C%2Fscript%3E%5Cn%20%20%22%7D`
+          `%7B%22previewStyles%22%3A%22%5Cn%20%20%20%20height%3A%2020em%3B%20%5Cn%20%20%20%20width%3A%20100%25%3B%20%5Cn%20%20%20%20border%3A%20none%3B%20%5Cn%20%20%20%20background-color%3A%20%23ccc%3B%5Cn%20%20%20%20border-radius%3A%206px%3B%5Cn%20%20%20%20padding%3A%206px%3B%20%5Cn%20%20%20%20margin%3A%201.5em%200%3B%5Cn%20%20%22%2C%22previewHead%22%3A%22%5Cn%20%20%20%20%3Ctitle%3ESassdoc%20Example%3C%2Ftitle%3E%20%5Cn%20%20%20%20%3Cmeta%20charset%3D%5C%22utf-8%5C%22%3E%20%5Cn%20%20%20%20%3Cmeta%20name%3D%5C%22viewport%5C%22%20content%3D%5C%22width%3Ddevice-width%2C%20initial-scale%3D1%5C%22%3E%20%5Cn%20%20%20%20%3Clink%20rel%3D%5C%22stylesheet%5C%22%20href%3D%5C%22%2Fsassdoc-preview.css%5C%22%3E%5Cn%20%20%22%2C%22previewScripts%22%3A%22%5Cn%20%20%20%20%3Cscript%20src%3D%5C%22%2Fsassdoc-preview.js%5C%22%3E%3C%2Fscript%3E%5Cn%20%20%22%7D`
         )
       )
     }

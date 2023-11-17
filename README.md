@@ -2,6 +2,20 @@
 
 Creates pages for sassdoc groups in Vitepress (as markdown). Supports all annotations, custom annotations, groups display name and description, as well as content blocks in content. Items organized by type (variable, mixin, etc).
 
+
+## Contents
+
+- [Vitepress Sassdocs](#vitepress-sassdocs)
+  - [Contents](#contents)
+  - [Details](#details)
+  - [Features](#features)
+  - [Usage Example](#usage-example)
+  - [Compiled Sassdoc Example](#compiled-sassdoc-example)
+  - [Example Previews](#example-previews)
+
+## Details
+
+
 This script extends the [@ulu/sassdoc-to-markdown](https://www.npmjs.com/package/@ulu/sassdoc-to-markdown) package. Refer to it for options. This package adds the following options:
 
 - previewEnabled : {Boolean} 
@@ -11,15 +25,9 @@ This script extends the [@ulu/sassdoc-to-markdown](https://www.npmjs.com/package
 
 If you encounter bugs or have a feature request, feel free to open an issue on github. Readme was done quickly more details, better documentation to follow.
 
-## Contents
+![Screenshot of Use in Default Theme (dark)](screenshots/screenshot-1.png)
 
-- [Vitepress Sassdocs](#vitepress-sassdocs)
-  - [Contents](#contents)
-  - [Features](#features)
-  - [Usage Example](#usage-example)
-  - [Compiled Sassdoc Example](#compiled-sassdoc-example)
-  - [Example Previews](#example-previews)
-
+![Screenshot of Use in Default Theme (light)](screenshots/screenshot-2.png)
 
 ## Features
 

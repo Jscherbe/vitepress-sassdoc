@@ -1,7 +1,7 @@
 <template>
   <details class="SassdocDetails" style="margin: 0.75em 0;">
-    <summary v-if="summary" style="cursor: pointer;">
-      {{ summary }}
+    <summary v-if="summaryText" style="cursor: pointer;">
+      {{ summaryText }}
     </summary>
     <div class="SassdocDetails__content">
       <slot/>
@@ -13,7 +13,7 @@
   export default {
     name: 'SassdocDetails',
     props: {
-      summary: String
+      summaryText: String
     }
   }
 </script>
