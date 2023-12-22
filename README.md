@@ -12,6 +12,7 @@ Creates pages for sassdoc groups in Vitepress (as markdown). Supports all annota
   - [Usage Example](#usage-example)
   - [Compiled Sassdoc Example](#compiled-sassdoc-example)
   - [Example Previews](#example-previews)
+  - [Change Log](#change-log)
 
 ## Details
 
@@ -115,3 +116,7 @@ You need to specify the "pathBase" in options defaults to /sass/. If the pathBas
 ```
 
 *See the "/test/" directory in this repo for example usage*
+
+## Change Log
+
+[Change Log](CHANGELOG.md)
