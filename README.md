@@ -107,6 +107,10 @@ You need to specify the "pathBase" in options defaults to /sass/. If the pathBas
 
 ## Example Previews
 
+**Note:** for previews you need to configure (previewStyles, previewHead, previewScript). These are injected into the preview iframe. This how you include your stylesheets etc.
+
+*See the "/test/" directory in this repo for example usage*
+
 ```scss
 /// In addition to the html example this will also be previewed in an iframe. Note the {preview} modifier. Settings are available to add stylesheet and javascript to iframe. Iframe used for isolation from docs styles. 
 /// @example html {preview} This example will be previewed
@@ -115,7 +119,7 @@ You need to specify the "pathBase" in options defaults to /sass/. If the pathBas
 @mixin  some-mixin($value) {}
 ```
 
-*See the "/test/" directory in this repo for example usage*
+
 
 ## Change Log
 

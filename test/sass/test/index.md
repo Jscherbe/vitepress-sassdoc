@@ -34,6 +34,11 @@ This is a test variable aiming at testing:
     
     
 
+``` scss
+()
+```
+  
+
 
 <SassdocDetails summaryText="Meta Information">
 
@@ -404,7 +409,7 @@ This is a test CSS block.
 ``` scss
 {
   color: red;
-}
+ }
 ```
   
 
